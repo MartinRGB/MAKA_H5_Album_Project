@@ -21,7 +21,7 @@
 
 ## Links
 
-- [Design Content Index](https://justinfincher.github.io/Restaurant-Assistant-Project-Misc/)
+- [Design Content Index](http://www.martinrgb.com/MAKA_H5_Album_Project/)
 
 ## License
 
